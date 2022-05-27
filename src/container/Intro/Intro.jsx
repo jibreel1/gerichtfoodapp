@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import { BsFillPlayFill, BsPauseFill, BsPlayFill } from "react-icons/bs";
+import { BsPauseFill, BsPlayFill } from "react-icons/bs";
 
 import { meal } from "../../constants";
 import "./Intro.css";
